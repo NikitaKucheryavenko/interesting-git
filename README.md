@@ -20,7 +20,7 @@
 
 Создать Fork репозитория:
 
-<img width="900" src="assets/images/fork.png"/>
+![](assets/images/fork.png)
 
 Склонировать ваш Fork:
 
