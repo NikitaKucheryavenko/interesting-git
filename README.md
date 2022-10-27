@@ -11,10 +11,10 @@
 - [смотрю я в стекляшку зеленого цвета...](https://github.com/belo4ya/interesting-git/tree/01-pretty)
 - [вишневый десерт](https://github.com/belo4ya/interesting-git/tree/02-cherry-pick)
 - [заметаем следы](https://github.com/belo4ya/interesting-git/tree/03-filter-branch)
-- [экспелиармус, авада кедавра, акцио, rebase]((https://github.com/belo4ya/interesting-git/tree/04-rebase-magic))
-- [кажется, что за нами следят...]((https://github.com/belo4ya/interesting-git/tree/05-hooks))
-- [приятные мелочи]((https://github.com/belo4ya/interesting-git/tree/06-nice-utils))
-- [если это попадет в не те руки...]((https://github.com/belo4ya/interesting-git/tree/07-cheating))
+- [экспелиармус, авада кедавра, акцио, rebase](https://github.com/belo4ya/interesting-git/tree/04-rebase-magic)
+- [кажется, что за нами следят...](https://github.com/belo4ya/interesting-git/tree/05-hooks)
+- [приятные мелочи](https://github.com/belo4ya/interesting-git/tree/06-nice-utils)
+- [если это попадет в не те руки...](https://github.com/belo4ya/interesting-git/tree/07-cheating)
 
 ## Начать
 
