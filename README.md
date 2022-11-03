@@ -13,8 +13,7 @@
 - [заметаем следы](https://github.com/belo4ya/interesting-git/tree/03-filter-branch)
 - [экспелиармус, авада кедавра, акцио, rebase](https://github.com/belo4ya/interesting-git/tree/04-rebase-magic)
 - [кажется, что за нами следят...](https://github.com/belo4ya/interesting-git/tree/05-hooks)
-- [приятные мелочи](https://github.com/belo4ya/interesting-git/tree/06-nice-utils)
-- [если это попадет не в те руки...](https://github.com/belo4ya/interesting-git/tree/07-cheating)
+- [если это попадет не в те руки...](https://github.com/belo4ya/interesting-git/tree/06-cheating)
 
 ## Начать
 
