@@ -16,14 +16,10 @@
 
 ## Начать
 
-Создать Fork репозитория:
-
-![](assets/images/fork.png)
-
-Склонировать ваш Fork:
+Склонировать ваш этот репозиторий:
 
 ```
-git clone https://github.com/<your-GitHub-username>/interesting-git.git
+git clone https://github.com/belo4ya/interesting-git.git
 ```
 
 Открыть директорию interesting-git в текстовом редакторе и терминале 
