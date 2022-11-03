@@ -16,7 +16,7 @@
 
 ## Начать
 
-Склонировать ваш этот репозиторий:
+Склонировать этот репозиторий:
 
 ```
 git clone https://github.com/belo4ya/interesting-git.git
